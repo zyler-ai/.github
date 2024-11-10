@@ -1,4 +1,6 @@
-## Zyler AI github
+Zyler.ai is an AI co-pilot for marketing analytics that transforms raw data into actionable insights. 
+
+Built for developers and analysts who need easy access to marketing intelligence.
 
 <!--
 
